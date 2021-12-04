@@ -6,7 +6,7 @@
 export default function Home() {
 return <div>
 <div>
-<Image src="/Chr.jpg" width={500} height={100} layout="fixed"/>
+<Image src="/Chr.jpg" width={100} height={100}/>
 </div>
  Deploy
 Hello
