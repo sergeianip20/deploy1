@@ -1,4 +1,4 @@
-import React from 'react'
+
 import {Navbar, Nav, NavDropdown, Container} from 'react-bootstrap'
 import  'bootstrap/dist/css/bootstrap.min.css';
 import Link from 'next/link'
