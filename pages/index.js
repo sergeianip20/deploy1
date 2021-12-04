@@ -12,7 +12,7 @@ Hello
 Typ
  World
 <div>
-<img src ="https://m.vk.com/photo68788592_271805563?list=photos68788592&from=profile" alt="hello"/ >
+<img src ="" alt="hello"/ >
 </div>
 </div>
 
