@@ -3,10 +3,6 @@ import {Navbar, Nav, NavDropdown, Container} from 'react-bootstrap'
 import  'bootstrap/dist/css/bootstrap.min.css';
 import Link from 'next/link'
 import s from './navbar.module.css'
-import Router from 'react-router'
-import Form from './Form'
-import Finish from './finish'
-import Image from 'next/image'
 
 const NavBar = () => {
 return   <div>
@@ -26,7 +22,7 @@ return   <div>
         <NavDropdown.Item > <Link href= '/price'><a className = {s.sa}>именные</a></Link> </NavDropdown.Item>
       </NavDropdown>
       <Nav.Link href="#features">Прайс</Nav.Link>
-      <Nav.Link   ><div><Finish/></div></Nav.Link>
+      
       
     </Nav>
     
