@@ -1,6 +1,6 @@
-import Image from 'next/image'
+import React from 'react'
 
- import s from './../styles/Home.module.css
+import Image from 'next/image'
 
 
 export default function Home() {
