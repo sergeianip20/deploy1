@@ -4,7 +4,7 @@ import  'bootstrap/dist/css/bootstrap.min.css';
 import Link from 'next/link'
 import s from './navbar.module.css'
 
-const NavBar = () => {
+export default function NavBar() {
 return   <div>
      <div className={s.navbar_BG}>
 <Navbar collapseOnSelect expand="lg"  variant="dark">
@@ -39,4 +39,4 @@ return   <div>
 
 }
 
-export default NavBar;
+
