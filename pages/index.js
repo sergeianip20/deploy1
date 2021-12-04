@@ -6,7 +6,7 @@ import Image from 'next/image'
 export default function Home() {
 return <div>
 <div>
-<Image src="/versel.svg"  alt=" не повезло не фортануло "width={100} height={100}/>
+<Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
 </div>
 
  Deploy
