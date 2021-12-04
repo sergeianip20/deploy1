@@ -1,5 +1,5 @@
   import s from './form.module.css' 
-  import NavBar from './NavBar'
+  import {NavBar} from './NavBar'
 
 
 
