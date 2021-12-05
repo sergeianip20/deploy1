@@ -1,9 +1,6 @@
 import React from 'react'
-import {Navbar, Nav, NavDropdown, Container} from 'react-bootstrap'
-import  'bootstrap/dist/css/bootstrap.min.css';
-import Link from 'next/link'
-import s from '../styles/navbar.module.css'
 import Image from 'next/image'
+import '../styles/global.css
 
 
 export default function Home() {
